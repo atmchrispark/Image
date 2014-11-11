@@ -1,6 +1,5 @@
 #### Patching WILC1000 Driver source  
-Extract the driver code tar ball “`linux-at91-patch-wilc1000.tar.gz`“ and overwrite onto the linux-at91 kernel  
-directory already we have.  
+Overwrite onto the linux-at91 kernel directory already we have.  
 > * Use diff-and-merge technic to see what will be changed after all.  
 > * In the Linux Wireless driver directory, “`/driver/net/wireless`” directory,  
 >          WILC1000 Linux driver are newly added as “`atmel`” directory. 
